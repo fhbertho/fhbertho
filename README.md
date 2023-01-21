@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Felipe Bertho
 - 👀 I’m interested in Cybersecurity, Development and Other IT Stuffs!
-- 🌱 I’m currently learning Python and Advanced Pentesting
-- 💞️ I’m looking to collaborate on Cybersecurity projects!
+- 🌱 I’m currently specializing in Python and Advanced Pentesting
+- 💞️ I’m looking to collaborate on Cybersecurity and Python projects!
 - 📫 How to reach me, mail me at: fhbertho@gmail.com or Felipe Bertho on Linkedin
 
 <!---
