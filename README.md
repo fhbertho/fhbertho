@@ -1,4 +1,4 @@
-<p align="center">Heeeey!<br>I'm Felipe Bertho,<br>Passionated about Cybersecurity, Hacking, Automation and all tech stuffs 👾</p>
+<p align="center">Heeeey!<br>I'm Felipe Bertho,<br>Passionated about Cybersecurity, Hacking, Automation and all tech stuffs 👾<br>Feel free to contact me: fez1c4@gmail.com</p>
 
 ###
 
@@ -15,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 </div>
 
 ###
