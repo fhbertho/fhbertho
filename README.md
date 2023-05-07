@@ -1,4 +1,4 @@
-<p align="center">Heeeey!<br>I'm Felipe Bertho,<br>Passionated about Cybersecurity, Hacking, Automation and all tech stuffs 👾<br>Feel free to contact me: fez1c4@gmail.com</p>
+<p align="center">Heeeey!<br>I'm Felipe Bertho,<br>Passionated about Cybersecurity, Hacking, Automation Programming and all Tech stuffs 👾<br>Feel free to contact me: fez1c4@gmail.com<br> Interested in collaborating with automation and security projects.
 
 ###
 
