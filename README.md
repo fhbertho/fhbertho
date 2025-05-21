@@ -1,4 +1,4 @@
-# **Site Reliability Engineer (SRE) | ✨ O Mágico do Uptime | Transformando Caos em Código**  
+# *Site Reliability Engineer (SRE) | ✨ O Mágico do Uptime | DevOps Engineer*
 
 ## **🛠 Tech Stack**  
 - **Infra as Code:** Terraform (o "Ctrl+S" da cloud), Ansible (meu robô pessoal)  
