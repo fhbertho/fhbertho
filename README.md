@@ -1,17 +1,18 @@
-# *Site Reliability Engineer (SRE) | ✨ O Mágico do Uptime | DevOps Engineer*
+# **Site Reliability Engineer (SRE) | Uptime Wizard | Chaos-to-Code Alchemist | Troubleshooting**  
+☁️ *Certified AWS Cloud Practitioner | 🐧 Linux LPIC-1 Certified*
 
 ## **🛠 Tech Stack**  
-- **Infra as Code:** Terraform (o "Ctrl+S" da cloud), Ansible (meu robô pessoal)  
-- **Containers & K8s:** Docker (onde tudo vira uma caixinha), Kubernetes (o maestro dos containers)  
-- **Monitoring Jedi:** Dynatrace (meu cristal bola), Grafana (quadros bonitões), Zabbix (o detetive de problemas)  
-- **Linguagens:** Python (automatizo até minha vida), Go (pra quando o Python não é hardcore o suficiente)  
+- **Infra as Code:** Terraform (cloud's "Ctrl+S"), Ansible (my personal robot butler)  
+- **Containers & K8s:** Docker (where everything becomes a neat little box), Kubernetes (the container orchestra conductor)  
+- **Monitoring Jedi:** Dynatrace (my crystal ball), Grafana (pretty dashboards), Zabbix (the problem detective)  
+- **Languages:** Python (I automate my life), Go (when Python isn't hardcore enough)  
 
 ## **🔥 My SRE Superpowers**  
-- **SLOs/SLIs:** Se seu sistema tá saudável, eu sei antes de você  
-- **Troubleshooting:** Acho problemas que nem existiam ainda (sim, sou vidente)  
-- **Observability:** Deixo seu sistema tão transparente que até o Tio Patinhas aprova  
+- **SLOs/SLIs:** I know your system's health before you do *(thanks to those certs and 3am debugging sessions)*  
+- **Troubleshooting:** I find problems that don't even exist yet (yes, I'm clairvoyant)  
+- **Observability:** I make systems so transparent even Scrooge McDuck would approve  
 
-## **🚀 Filosofia de Trabalho**  
-- "Se você tem que fazer mais de 2x, AUTOMATIZA!"  
-- "Uptime alto, stress baixo - igual café bom: sempre disponível e sem falhas"  
-- "Monitoramento é como um cachorro: se ele não late, algo está muito errado"
+## **🚀 Work Philosophy**  
+- "If it's not automated, it's broken" *(Ansible + Terraform certified opinion)*  
+- "High uptime, low stress - like AWS EC2 with proper load balancing"  
+- "Monitoring is like a good Linux distro: if it’s not yelling at you, something’s wrong"  
