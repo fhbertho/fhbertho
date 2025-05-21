@@ -1,4 +1,4 @@
-# **Site Reliability Engineer (SRE) | Uptime Wizard | Chaos-to-Code Alchemist | Troubleshooting**  
+## **Site Reliability Engineer (SRE) | Uptime Wizard | Chaos-to-Code Alchemist | Troubleshooting**  
 ☁️ *Certified AWS Cloud Practitioner | 🐧 Linux LPIC-1 Certified*
 
 ## **🛠 Tech Stack**  
