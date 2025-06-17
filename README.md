@@ -1,5 +1,5 @@
 
-☁️ *Certified AWS Cloud Practitioner | 🐧 Linux LPIC-1 Certified | Infrastructure and Observability*
+☁️ *Certified AWS Cloud  | 🐧 Linux Certified | Infrastructure and Observability*
 
 ## **🛠 Tech Stack**  
 - **Infra as Code:** Terraform (cloud's "Ctrl+S"), Ansible (my personal robot butler)  
