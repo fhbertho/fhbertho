@@ -4,7 +4,7 @@
 ## **🛠 Tech Stack**  
 - **Infra as Code:** Terraform (cloud's "Ctrl+S"), Ansible (my personal robot butler)  
 - **Containers & K8s:** Docker (where everything becomes a neat little box), Kubernetes (the container orchestra conductor)  
-- **Monitoring Jedi:** Dynatrace (my crystal ball), Grafana (pretty dashboards), Zabbix (the problem detective)  
+- **Monitoring Jedi:** Dynatrace and Data Dog (my crystal ball), Grafana (pretty dashboards), Zabbix (the problem detective)  
 - **Languages:** Python (I automate my life), Go (when Python isn't hardcore enough)  
 
 ## **🔥 My SRE Superpowers**  
