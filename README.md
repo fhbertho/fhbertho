@@ -20,7 +20,7 @@ $ cat /etc/sysinfo
 ───────────────────────────────────────────────────────────────────────────────
 ```
 
-### 🛰️ Telemetria de Projetos
+### <img src="https://api.iconify.design/lucide:radar.svg?color=%232ea043" width="18" height="18" valign="middle" /> Telemetria de Projetos
 
 | Repositório | Domínio | Arquitetura / Descrição |
 | :--- | :---: | :--- |
@@ -32,7 +32,7 @@ $ cat /etc/sysinfo
 
 ---
 
-### 🧰 Stack Tecnológica & Vetores
+### <img src="https://api.iconify.design/lucide:layers.svg?color=%232ea043" width="18" height="18" valign="middle" /> Stack Tecnológica & Vetores
 
 ```text
 [Cloud & IaC]        Docker · Kubernetes · Terraform · Linux
@@ -51,7 +51,7 @@ $ cat /etc/sysinfo
 
 ---
 
-### 📊 Métricas do Terminal
+### <img src="https://api.iconify.design/lucide:activity.svg?color=%232ea043" width="18" height="18" valign="middle" /> Métricas do Terminal
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=fhbertho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=8B949E" height="165" alt="GitHub Stats" />
@@ -60,7 +60,7 @@ $ cat /etc/sysinfo
 
 ---
 
-### 📡 Conexões
+### <img src="https://api.iconify.design/lucide:network.svg?color=%232ea043" width="18" height="18" valign="middle" /> Conexões
 
 ```bash
 $ ping -c 1 felipe
