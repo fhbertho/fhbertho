@@ -53,10 +53,10 @@ $ cat /etc/sysinfo
 
 ### 📊 Métricas do Terminal
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fhbertho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=8B949E" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhbertho&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=8B949E" width="45%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=fhbertho&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=8B949E" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fhbertho&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=8B949E" height="165" alt="Top Languages" />
+</p>
 
 ---
 
