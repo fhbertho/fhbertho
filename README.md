@@ -70,7 +70,7 @@ $ ping -c 1 felipe
   <a href="mailto:fhbertho@gmail.com">
     <img src="https://img.shields.io/badge/Email-fhbertho%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=2EA043" alt="Email" />
   </a>
-  <a href="https://github.com/fhbertho/my_blog">
+  <a href="https://felipe-bertho.com">
     <img src="https://img.shields.io/badge/Blog-my__blog-0D1117?style=flat-square&logo=blogger&logoColor=2EA043" alt="Blog" />
   </a>
 </div>
