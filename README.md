@@ -14,13 +14,13 @@ $ whoami
 > Felipe | Cloud, DevOps & Security
 
 $ cat /etc/sysinfo
-> Focus: Infraestrutura como Código, Arquitetura Kubernetes & Segurança Defensiva/Ofensiva.
-> Core:  Automação de ambientes, observabilidade e construção de ferramentas de análise.
-> Status: Desenvolvendo soluções de infraestrutura e segurança.
+> Focus: Infrastructure as code, Kubernetes architectuer & Offensive security.
+> Core:  Automation, observability, troubleshooting & Analysis, Incident commander.
+> Status: Developing infrastructure solutions, automations and security.
 ───────────────────────────────────────────────────────────────────────────────
 ```
 
-### <img src="https://api.iconify.design/lucide:radar.svg?color=%232ea043" width="18" height="18" valign="middle" /> Telemetria de Projetos
+### <img src="https://api.iconify.design/lucide:radar.svg?color=%232ea043" width="18" height="18" valign="middle" /> Projects
 
 | Repositório | Domínio | Arquitetura / Descrição |
 | :--- | :---: | :--- |
@@ -36,8 +36,8 @@ $ cat /etc/sysinfo
 
 ```text
 [Cloud & IaC]        Docker · Kubernetes · Terraform · Linux
-[Desenvolvimento]    Python · Bash / Shell · JavaScript · TypeScript
-[Segurança & SecOps] Vulnerability Assessment · AppSec · Hardening
+[Infra & Development]    Python · Bash / Shell 
+[Cloud & SecOps] Vulnerability Assessment · CloudSec · Offensive Security
 ```
 
 <div align="left">
