@@ -20,25 +20,6 @@ $ cat /etc/sysinfo
 ───────────────────────────────────────────────────────────────────────────────
 ```
 
-### <img src="https://api.iconify.design/lucide:radar.svg?color=%232ea043" width="18" height="18" valign="middle" /> Projects
-
-| Repositório | Domínio | Arquitetura / Descrição |
-| :--- | :---: | :--- |
-| [`the_infograph`](https://github.com/fhbertho/the_infograph) | `Cloud / DevOps` | Processador visual de manifestos K8s, Docker e Terraform. |
-| [`k8s-pathfinder`](https://github.com/fhbertho/k8s-pathfinder) | `Cloud Native` | Utilitários e inspeção de clusters Kubernetes. |
-| [`ScanV`](https://github.com/fhbertho/ScanV) | `Cybersecurity` | Scanner automatizado de vulnerabilidades desenvolvido em Python. |
-| [`cybershield_web`](https://github.com/fhbertho/cybershield_web) | `AppSec` | Plataforma web focada em camadas de proteção e segurança. |
-| [`hdapp-monitor`](https://github.com/fhbertho/hdapp-monitor) | `Observability` | Sistema de healthcheck e monitoramento contínuo de aplicações. |
-
----
-
-### <img src="https://api.iconify.design/lucide:layers.svg?color=%232ea043" width="18" height="18" valign="middle" /> Stack Tecnológica & Vetores
-
-```text
-[Cloud & IaC]        Docker · Kubernetes · Terraform · Linux
-[Infra & Development]    Python · Bash / Shell 
-[Cloud & SecOps] Vulnerability Assessment · CloudSec · Offensive Security
-```
 
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2EA043" alt="Docker" />
